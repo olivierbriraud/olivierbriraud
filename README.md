@@ -1,6 +1,6 @@
 # Bonjour 👋
 
-Je m'appelle ** Olivier Briraud **, passionné par la technologie, les contenus audiovisuels et numériques, tout en gérant la cybersécurité et le développement web chez **TELENIMA**
+Je m'appelle **Olivier Briraud**, passionné par la technologie, les contenus audiovisuels et numériques, tout en gérant la cybersécurité et le développement web chez **TELENIMA**
 
 Bienvenue sur mon profil GitHub ! Ici, vous trouverez quelques projets, expériences et contributions open-source.
 
