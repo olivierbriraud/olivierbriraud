@@ -1,16 +1,34 @@
-## Hi there 👋
+# Bonjour 👋
 
-<!--
-**olivierbriraud/olivierbriraud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je m'appelle ** Olivier Briraud **, passionné par la technologie, les contenus audiovisuels et numériques, tout en gérant la cybersécurité et le développement web chez **TELENIMA**
 
-Here are some ideas to get you started:
+Bienvenue sur mon profil GitHub ! Ici, vous trouverez quelques projets, expériences et contributions open-source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Compétences
+- HTML / CSS / JavaScript / React
+- Git & GitHub
+- Développement web et applications
+- Approche globale de gestion des risques en matière de cybersécurité
+- Automatisation et scripts (Python, Bash)
+- Administration système et réseaux
+
+## 🚀 Projets en cours
+- **CDM** – concepts et mécanismes de sécurité
+- **eTELENIMA Optware** – Logiciel de réseau Telenima
+
+## 🌱 En apprentissage
+Actuellement, j'apprends :
+- nouvelles technologies web
+- frameworks modernes
+- bonnes pratiques de programmation
+- cybersécurité
+
+## 📫 Contact
+- GitHub : [https://github.com/olivierbriraud](https://github.com/olivierbriraud)
+
+## 🌱 Réseaux sociaux
+- Mastodon : [https://github.com/olivierbriraud](https://github.com/olivierbriraud)
+- Bluesky : [https://bsky.app/profile/olivierbriraud.bsky.social](https://bsky.app/profile/olivierbriraud.bsky.social)
+
+
+Merci de votre visite !
