@@ -1,4 +1,4 @@
-# Bonjour 👋
+# Bienvenue 👋
 
 Je m'appelle **Olivier Briraud**, passionné par la technologie, les contenus audiovisuels et numériques, tout en gérant la cybersécurité et le développement web chez **TELENIMA**
 
