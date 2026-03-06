@@ -27,8 +27,9 @@ Actuellement, j'apprends :
 - GitHub : [https://github.com/olivierbriraud](https://github.com/olivierbriraud)
 
 ## 🌱 Réseaux sociaux
-- Mastodon : [https://github.com/olivierbriraud](https://github.com/olivierbriraud)
+- Mastodon : [https://mastodon.social/@olivierbriraud](https://mastodon.social/@olivierbriraud)
 - Bluesky : [https://bsky.app/profile/olivierbriraud.bsky.social](https://bsky.app/profile/olivierbriraud.bsky.social)
+- GitLab : [https://gitlab.com/olivierbriraud](https://gitlab.com/olivierbriraud)
 
 
 Merci de votre visite !
